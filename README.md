@@ -1,2 +1,3 @@
 # HTML EX
-HTML5 and CSS refresher excercises.
+Excercise in HTML5/CSS and GIT CLI for now.
+
